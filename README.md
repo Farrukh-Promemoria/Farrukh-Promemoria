@@ -3,12 +3,10 @@
 
 ### Languages and Tools
 
-![Golang](https://img.shields.io/badge/-Golang-082032?style=for-the-badge&logo=Golang&logoColor=#FEC260)
+![Go](https://img.shields.io/badge/-Go-082032?style=for-the-badge&logo=Golang&logoColor=#FEC260)
 ![PostgreSql](https://img.shields.io/badge/-PostgerSql-082032?style=for-the-badge&logo=PostgreSql&logoColor=#61DAFB)
 ![Redis](https://img.shields.io/badge/-Redis-082032?style=for-the-badge&logo=Redis&logoColor=#185ADB)
 ![Docker](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![ REST API](https://img.shields.io/badge/-REST-API-082032?style=for-the-badge&logo=REST-API&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
 
 
